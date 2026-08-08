@@ -4,7 +4,7 @@
   💻 BSIT Student • Developer • Tech Enthusiast
 </p><p align="center">
   <i>"Learning today, building tomorrow."</i> 🚀
-</p>---
+</p>
 
 🧑‍💻 About Me
 
