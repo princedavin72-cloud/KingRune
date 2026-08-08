@@ -525,8 +525,7 @@ my programming skills.
 💻 Software Development
 🗄️ Databases / SQL
 
-
-#🌐 Connect With Me
+---
 
 <p align="center">
 
@@ -550,4 +549,4 @@ my programming skills.
 
 <p align="center">
   💬 <b>Discord:</b> junggun0711
-</p
+</p>
