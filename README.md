@@ -35,7 +35,7 @@
 - Learn advanced software development
 - Create useful projects
 
----
+
 
 <h2 align="center">⚡ Keep Learning. Keep Building. ⚡</h2><p align="center">
   ⭐ Thanks for visiting my profile!
