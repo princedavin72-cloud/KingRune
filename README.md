@@ -1,152 +1,442 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyenFkenc0cmxubmV5Nm4xb3c1NnZsa2dmamc3cnkxd2dvMTRibW5kdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fJUaFqUCNGLQT99fS8/200w.webp" width="700">
-</p><h1 align="center">⚔️ PRINCE DAVIN</h1><p align="center">
+</p>
+
+<h1 align="center">⚔️ PRINCE DAVIN</h1>
+
+<p align="center">
   💻 <b>BSIT Student</b> • Developer • Tech Enthusiast
-</p><p align="center">
+</p>
+
+<p align="center">
   <i>"Learning today, building tomorrow."</i> 🚀
 </p>
 
-🧑‍💻 About Me
+---
 
-🎓 BSIT Student
-💻 Learning programming and software development
-🌐 Interested in web development
-📱 Interested in Android development
-🎮 Gaming enthusiast
-🏋️ Fitness enthusiast
-🚀 Always learning and improving
+## 🧑‍💻 About Me
 
+🎓 BSIT Student  
+💻 Learning programming and software development  
+🌐 Interested in web development  
+📱 Interested in Android development  
+🎮 Gaming enthusiast  
+🏋️ Fitness enthusiast  
+🚀 Always learning and improving  
 
+---
 
-🛠️ Programming Languages
+# 💻 Programming Languages
 
-<p align="center"><a href="https://www.python.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" title="Python">
-</a><a href="https://www.java.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" title="Java">
-</a><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" title="HTML">
-</a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" title="CSS">
-</a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" title="JavaScript">
-</a><a href="https://isocpp.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" title="C++">
-</a><a href="https://dotnet.microsoft.com/en-us/languages/csharp">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55" title="C#">
-</a><a href="https://www.php.net/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" title="PHP">
-</a><a href="https://www.rust-lang.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="55" title="Rust">
-</a><a href="https://go.dev/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="55" title="Go">
-</a><a href="https://www.ruby-lang.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="55" title="Ruby">
-</a><a href="https://www.swift.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="55" title="Swift">
-</a><a href="https://kotlinlang.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="55" title="Kotlin">
-</a><a href="https://www.typescriptlang.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" title="TypeScript">
-</a><a href="https://dart.dev/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="55" title="Dart">
-</a></p>«💡 Click any logo to visit its official website.»
+<table>
+<tr>
 
+<td align="center" width="160">
 
+<b>🐍 Python</b>
 
-🔧 Tools & Technologies
+<br><br>
 
-<p align="center"><a href="https://git-scm.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" title="Git">
-</a><a href="https://github.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" title="GitHub">
-</a><a href="https://code.visualstudio.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" title="VS Code">
-</a><a href="https://developer.android.com/studio">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="55" title="Android Studio">
-</a><a href="https://www.linux.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" title="Linux">
-</a></p>
+<a href="https://www.python.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60">
+</a>
 
-🚀 Projects
+<br><br>
 
-📱 Android Development
+Programming Language
 
-Building and experimenting with Android applications and mobile projects.
+</td>
 
-🌐 Web Development
+<td align="center" width="160">
 
-Creating websites using HTML, CSS, and JavaScript.
+<b>☕ Java</b>
 
-🐍 Python Projects
+<br><br>
 
-Creating applications, tools, and experiments while improving my programming skills.
+<a href="https://www.java.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60">
+</a>
 
+<br><br>
 
+Programming Language
 
-📚 Currently Learning
+</td>
 
-🐍 Python
-☕ Java
-🌐 HTML & CSS
-⚡ JavaScript
-📱 Android Development
-🔧 Git & GitHub
-🌐 Web Development
-💻 Software Development
+<td align="center" width="160">
 
+<b>🌐 HTML</b>
 
+<br><br>
 
-🎯 Goals
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60">
+</a>
 
-- [ ] Become a professional developer
-- [ ] Build my own Android applications
-- [ ] Create useful software
-- [ ] Master Python and Java
-- [ ] Learn advanced web development
-- [ ] Improve my GitHub portfolio
-- [ ] Contribute to open-source projects
+<br><br>
 
+Markup Language
 
+</td>
 
-🌐 Connect With Me
+<td align="center" width="160">
 
-<p align="center"><a href="https://github.com/princedavin72">
-  <img src="https://img.shields.io/badge/GitHub-PrinceDavin72-181717?style=for-the-badge&logo=github&logoColor=white">
-</a><a href="https://www.facebook.com/share/19TeAEqWpA/">
-  <img src="https://img.shields.io/badge/Facebook-Prince%20Davin-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-</a><a href="mailto:princedavin72@gmail.com">
-  <img src="https://img.shields.io/badge/Email-princedavin72-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a><a href="https://www.instagram.com/princezeming">
-  <img src="https://img.shields.io/badge/Instagram-princezeming-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a></p><p align="center">
-  💬 <b>Discord:</b> junggun0711
-</p>
+<b>🎨 CSS</b>
 
-📊 GitHub Stats
+<br><br>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60">
+</a>
+
+<br><br>
+
+Style Sheet Language
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<b>⚡ JavaScript</b>
+
+<br><br>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60">
+</a>
+
+<br><br>
+
+Programming Language
+
+</td>
+
+<td align="center">
+
+<b>⚙️ C++</b>
+
+<br><br>
+
+<a href="https://isocpp.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60">
+</a>
+
+<br><br>
+
+Programming Language
+
+</td>
+
+<td align="center">
+
+<b>🔷 C#</b>
+
+<br><br>
+
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60">
+</a>
+
+<br><br>
+
+Programming Language
+
+</td>
+
+<td align="center">
+
+<b>🐘 PHP</b>
+
+<br><br>
+
+<a href="https://www.php.net/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60">
+</a>
+
+<br><br>
+
+Programming Language
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<b>🦀 Rust</b>
+
+<br><br>
+
+<a href="https://www.rust-lang.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="60">
+</a>
+
+<br><br>
+
+Systems Language
+
+</td>
+
+<td align="center">
+
+<b>🐹 Go</b>
+
+<br><br>
+
+<a href="https://go.dev/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="60">
+</a>
+
+<br><br>
+
+Programming Language
+
+</td>
+
+<td align="center">
+
+<b>💎 Ruby</b>
+
+<br><br>
+
+<a href="https://www.ruby-lang.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="60">
+</a>
+
+<br><br>
+
+Programming Language
+
+</td>
+
+<td align="center">
+
+<b>🐦 Swift</b>
+
+<br><br>
+
+<a href="https://www.swift.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="60">
+</a>
+
+<br><br>
+
+Programming Language
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<b>🟣 Kotlin</b>
+
+<br><br>
+
+<a href="https://kotlinlang.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="60">
+</a>
+
+<br><br>
+
+Programming Language
+
+</td>
+
+<td align="center">
+
+<b>🔵 TypeScript</b>
+
+<br><br>
+
+<a href="https://www.typescriptlang.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60">
+</a>
+
+<br><br>
+
+Programming Language
+
+</td>
+
+<td align="center">
+
+<b>🎯 Dart</b>
+
+<br><br>
+
+<a href="https://dart.dev/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="60">
+</a>
+
+<br><br>
+
+Programming Language
+
+</td>
+
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princedavin72&show_icons=true&theme=tokyonight&hide_border=true">
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princedavin72&layout=compact&theme=tokyonight&hide_border=true">
+  💡 <b>Click any logo to visit its official website.</b>
 </p>
 
-🔥 GitHub Streak
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princedavin72&theme=tokyonight&hide_border=true">
-</p>
+# 🔧 Tools & Technologies
 
-⚔️ Developer Mindset
+<table>
+<tr>
 
-<p align="center">
-  <b>"The strongest developers never stop learning."</b>
-</p><p align="center">
-  ⚡ <b>LEARN</b> • 🔨 <b>BUILD</b> • 🚀 <b>IMPROVE</b> • 🔁 <b>REPEAT</b>
-</p>
+<td align="center" width="180">
 
-<p align="center">
-  ⭐ Thanks for visiting my GitHub profile!
-</p><p align="center">
-  <i>Made with ❤️ by Prince Davin</i>
-</p>
+<b>🔀 Git</b>
+
+<br><br>
+
+<a href="https://git-scm.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65">
+</a>
+
+<br><br>
+
+Version Control
+
+</td>
+
+<td align="center" width="180">
+
+<b>🐙 GitHub</b>
+
+<br><br>
+
+<a href="https://github.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65">
+</a>
+
+<br><br>
+
+Code Hosting
+
+</td>
+
+<td align="center" width="180">
+
+<b>💻 VS Code</b>
+
+<br><br>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65">
+</a>
+
+<br><br>
+
+Code Editor / IDE
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<b>🤖 Android Studio</b>
+
+<br><br>
+
+<a href="https://developer.android.com/studio">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="65">
+</a>
+
+<br><br>
+
+Android IDE
+
+</td>
+
+<td align="center">
+
+<b>🐧 Linux</b>
+
+<br><br>
+
+<a href="https://www.linux.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65">
+</a>
+
+<br><br>
+
+Operating System
+
+</td>
+
+<td align="center">
+
+<b>📱 Termux</b>
+
+<br><br>
+
+<a href="https://termux.dev/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Termux.svg" width="65">
+</a>
+
+<br><br>
+
+Android Terminal
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<b>🌶️ Flask</b>
+
+<br><br>
+
+<a href="https://flask.palletsprojects.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="65">
+</a>
+
+<br><br>
+
+Python Web Framework
+
+</td>
+
+<td align="center">
+
+<b>🎨 Kivy</b>
+
+<br><br>
+
+<a href="https://kivy.org/">
+<img src="https://kivy.org/logos/kivy-logo-black-128.png" width="65">
+</a>
+
+<br><br>
+
+Python UI Framework
+
+</td>
+
+<td align="center">
+
+<b>📦 ADB</b>
+
+<br><br>
+
+<a href="https://
