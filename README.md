@@ -16,9 +16,8 @@
 
 <p align="center">
   <a href="https://github.com/princedavin72">
-    <img src="https://img.shields.io/github/followers/princedavin72?label=Followers&style=for-the-badge">
+    <img src="https://img.shields.io/badge/GitHub-princedavin72-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=princedavin72&style=for-the-badge&color=blue">
 </p>
 
 ---
@@ -27,12 +26,12 @@
 
 Hi! I'm **Prince Davin** 👋
 
-I'm a **BSIT student** who is interested in programming, software development,
+I'm a **BSIT student** interested in programming, software development,
 Android development, web development, and technology.
 
-I enjoy learning how computers, applications, websites, and mobile systems work.
-I'm continuously improving my programming skills by creating projects and
-experimenting with different technologies.
+I enjoy learning how computers, applications, websites, and mobile systems
+work. I'm continuously improving my programming skills by creating projects
+and experimenting with different technologies.
 
 ### 🧑‍💻 A Little About Me
 
@@ -46,12 +45,12 @@ experimenting with different technologies.
 - 🔧 Learning **Git & GitHub**
 - 🎮 Gaming enthusiast
 - 🏋️ Fitness enthusiast
-- 🚀 Always trying to improve my skills
-- 📚 Passionate about learning technology
+- 🚀 Always learning and improving
+- 📚 Passionate about technology
 
 ---
 
-# 🛠️ Programming Languages
+# 💻 Programming Languages
 
 <table>
 <tr>
@@ -308,11 +307,27 @@ Programming Language
 
 </td>
 
+<td align="center">
+
+<b>🗄️ SQL</b>
+
+<br><br>
+
+<a href="https://www.mysql.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60">
+</a>
+
+<br><br>
+
+Database Language
+
+</td>
+
 </tr>
 </table>
 
 <p align="center">
-💡 <b>Click any logo to visit its official website.</b>
+  💡 <b>Click any logo to visit its website.</b>
 </p>
 
 ---
@@ -481,23 +496,17 @@ Android Debugging Tool
 
 # 🚀 My Projects
 
-### 📱 Android Projects
+### 📱 Android Development
 
-I'm interested in building Android applications and experimenting
-with mobile development.
+Building and experimenting with Android applications and mobile projects.
 
-### 🌐 Web Projects
+### 🌐 Web Development
 
-I'm learning to build websites using:
-
-- HTML
-- CSS
-- JavaScript
-- Python / Flask
+Creating websites using HTML, CSS, JavaScript, and Python/Flask.
 
 ### 🐍 Python Projects
 
-I'm creating small Python applications and tools while improving
+Creating small applications, tools, and experiments while improving
 my programming skills.
 
 ---
@@ -514,3 +523,4 @@ my programming skills.
 🔧 Git & GitHub
 🌐 Web Development
 💻 Software Development
+🗄️ Databases / SQL
