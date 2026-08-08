@@ -66,7 +66,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="55" title="Android Studio">
 </a><a href="https://www.linux.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" title="Linux">
-</a></p>---
+</a></p>
 
 🚀 Projects
 
