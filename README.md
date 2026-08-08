@@ -55,37 +55,37 @@
 
 🚀 Projects
 
-📱 Android Projects
+📱 Android Development
 
-Working on Android applications and experimenting with mobile development.
+Building and experimenting with Android applications.
 
-🌐 Web Projects
+🌐 Web Development
 
-Building websites while learning HTML, CSS, and JavaScript.
+Creating websites using HTML, CSS, and JavaScript.
 
 🐍 Python Projects
 
-Creating small applications and tools to improve programming skills.
+Creating small applications and tools while improving my programming skills.
 
 ---
 
 📚 Currently Learning
 
-Python
-Java
-HTML & CSS
-JavaScript
-Android Development
-Git & GitHub
-Web Development
-Software Development
+🐍 Python
+☕ Java
+🌐 HTML & CSS
+⚡ JavaScript
+📱 Android Development
+🔧 Git & GitHub
+🌐 Web Development
+💻 Software Development
 
 ---
 
 🎯 Goals
 
 - [ ] Become a professional developer
-- [ ] Build my own Android application
+- [ ] Build my own Android applications
 - [ ] Create useful software
 - [ ] Master Python and Java
 - [ ] Learn advanced web development
@@ -96,36 +96,42 @@ Software Development
 
 🌐 Connect With Me
 
-🐙 GitHub
-
-"github.com/princedavin72" (https://github.com/princedavin72)
-
-📘 Facebook
-
-"Facebook Profile" (https://www.facebook.com/share/19TeAEqWpA/)
-
-📸 Instagram
-
-"@princezeming" (https://www.instagram.com/princezeming)
-
-💬 Discord
-
-Username: "junggun0711"
-
-📧 Email
-
-"princedavin72@gmail.com" (mailto:princedavin72@gmail.com)
-
----
-
-⚡ GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princedavin72&show_icons=true&theme=tokyonight&hide_border=true" width="450">
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princedavin72&layout=compact&theme=tokyonight&hide_border=true" width="350">
+<p align="center"><a href="https://github.com/princedavin72">
+  <img src="https://img.shields.io/badge/GitHub-PrinceDavin72-181717?style=for-the-badge&logo=github&logoColor=white">
+</a><a href="https://www.facebook.com/share/19TeAEqWpA/">
+  <img src="https://img.shields.io/badge/Facebook-Prince%20Davin-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a><a href="mailto:princedavin72@gmail.com">
+  <img src="https://img.shields.io/badge/Email-princedavin72-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a><a href="https://www.instagram.com/princezeming">
+  <img src="https://img.shields.io/badge/Instagram-princezeming-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a></p><p align="center">
+  💬 Discord: <b>junggun0711</b>
 </p>---
 
-<h2 align="center">⚔️ KEEP LEARNING • KEEP BUILDING • KEEP IMPROVING ⚔️</h2><p align="center">
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=princedavin72&show_icons=true&theme=tokyonight&hide_border=true">
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princedavin72&layout=compact&theme=tokyonight&hide_border=true">
+</p>---
+
+📈 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princedavin72&theme=tokyonight&hide_border=true">
+</p>---
+
+⚔️ Developer Mindset
+
+«"The strongest developers aren't those who know everything. They're the ones who never stop learning."»
+
+<p align="center">
+  <b>⚡ LEARN • BUILD • IMPROVE • REPEAT ⚡</b>
+</p>---
+
+<p align="center">
   ⭐ Thanks for visiting my GitHub profile!
+</p><p align="center">
+  <i>Made with ❤️ by Prince Davin</i>
 </p>
