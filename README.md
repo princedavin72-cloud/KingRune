@@ -4,7 +4,7 @@
   💻 <b>BSIT Student</b> • Developer • Tech Enthusiast
 </p><p align="center">
   <i>"Learning today, building tomorrow."</i> 🚀
-</p>---
+</p>
 
 🧑‍💻 About Me
 
@@ -16,7 +16,7 @@
 🏋️ Fitness enthusiast
 🚀 Always learning and improving
 
----
+
 
 🛠️ Programming Languages
 
@@ -52,7 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="55" title="Dart">
 </a></p>«💡 Click any logo to visit its official website.»
 
----
+
 
 🔧 Tools & Technologies
 
@@ -82,7 +82,7 @@ Creating websites using HTML, CSS, and JavaScript.
 
 Creating applications, tools, and experiments while improving my programming skills.
 
----
+
 
 📚 Currently Learning
 
@@ -95,7 +95,7 @@ Creating applications, tools, and experiments while improving my programming ski
 🌐 Web Development
 💻 Software Development
 
----
+
 
 🎯 Goals
 
@@ -107,7 +107,7 @@ Creating applications, tools, and experiments while improving my programming ski
 - [ ] Improve my GitHub portfolio
 - [ ] Contribute to open-source projects
 
----
+
 
 🌐 Connect With Me
 
@@ -121,7 +121,7 @@ Creating applications, tools, and experiments while improving my programming ski
   <img src="https://img.shields.io/badge/Instagram-princezeming-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a></p><p align="center">
   💬 <b>Discord:</b> junggun0711
-</p>---
+</p>
 
 📊 GitHub Stats
 
@@ -129,13 +129,13 @@ Creating applications, tools, and experiments while improving my programming ski
   <img src="https://github-readme-stats.vercel.app/api?username=princedavin72&show_icons=true&theme=tokyonight&hide_border=true">
 </p><p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princedavin72&layout=compact&theme=tokyonight&hide_border=true">
-</p>---
+</p>
 
 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=princedavin72&theme=tokyonight&hide_border=true">
-</p>---
+</p>
 
 ⚔️ Developer Mindset
 
@@ -143,7 +143,7 @@ Creating applications, tools, and experiments while improving my programming ski
   <b>"The strongest developers never stop learning."</b>
 </p><p align="center">
   ⚡ <b>LEARN</b> • 🔨 <b>BUILD</b> • 🚀 <b>IMPROVE</b> • 🔁 <b>REPEAT</b>
-</p>---
+</p>
 
 <p align="center">
   ⭐ Thanks for visiting my GitHub profile!
